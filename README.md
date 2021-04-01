@@ -1,4 +1,6 @@
 # Decorative Webshop 
+## Group project for Dynamic web development course
+### Group members: Matt Sedmak, Carolina Lagerberg, Fredrika Ericsson.
 
 _A home decor webshop that offer beautiful and practical objects_
 
